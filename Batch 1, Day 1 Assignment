@@ -1,0 +1,28 @@
+Answer 1:
+Blockchain is a database shared across various networks of computers. In blockchain, the database is stored by forming a bundle of different records which are to be stored and added to 
+a chain one after the other.The records that the network accepted are added to a block. Each block contains a unique code called a hash. It also contains the hash of the previous block in the chain.
+The block is added to the blockchain. The hash codes connect the blocks together in a specific order. The computers in the network check the deatils of the trade to make sure it is valid.
+A blockchain database is decentralized.
+
+Answer 2:
+Blockchain helps streamline the entire process by cutting out any and all middlemen, and lengthy procedures, thereby the burden of unnecessary time delays.
+By using its secure and sophisticated distributed ledger, once a transaction gets recorded, the payment is almost instantaneously transferred to the receiving party.
+Since the transaction can’t be reversed or changed, it also ensures better accountability and security than the currently employed system.
+The transparency in data sharing makes sure that everyone is on the same page – starting from the manufacturers to retailers, vendors, and even the contractors.
+In turn, this helps to reduce any conflict and delay in operations.
+
+Answer 3:
+Blockchains tend to have better security because there is no single point of failure to shut down the network.
+Blockchains are secured by many computers that run nodes and confirm transactions on the networks.
+One of the remarkable things about peer-to-peer technology is that they can increase the capacity of an entire network.
+Having thousands of computers working together as a whole can have greater power than a few centralized severs.
+Any centralized database can be corrupted and generally requires trust in a third party to keep the information accurate. 
+Blockchains like Bitcoin keep the ledger in a perpetual state of forward momentum because millions of dollars worth of hashing power confirm new transactions that are recorded.
+Blockchains can usually settle money transfers at near instant speed. This can save time and money for the entire financial industry.
+
+Answer 4:
+Each block contains, a record of some or all recent transactions, and a reference to the block that came immediately before it. 
+Each block includes the cryptographic hash of the prior block in the blockchain and the cryptographic hash of the block formed with prior block hash, present data and hash of the present block.
+
+Answer 5:
+Verifiability of blockchain will be attained in the way that even when a person will be linked to a public Bitcoin address,  no one will get to know the actual name or address. 
